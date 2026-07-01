@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -s \"https://raw.githubusercontent.com/phuthodien/embedded_linux_ai_first/main/docs/essential_linux_device_drivers_book/chapters/ch01_introduction.md\")"
+    ]
+  }
+}
